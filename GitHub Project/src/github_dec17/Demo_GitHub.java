@@ -6,6 +6,10 @@ public class Demo_GitHub
 	{
 		System.out.println("sum-----Test");
 	}
+	public void sub()
+	{
+		System.out.println("sub-----Test");
+	}
 public static void main(String[] args) 
 {
 	System.out.println("Hello GitHub");
